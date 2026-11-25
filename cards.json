@@ -1,0 +1,514 @@
+[
+  {
+    "id": "1-1",
+    "category": "Psychology",
+    "title": "Confirmation bias",
+    "body": "We tend to seek and interpret evidence in ways that support existing beliefs.",
+    "apply": "Look for the strongest evidence against your current opinion.",
+    "source": "Nickerson, Review of General Psychology (1998)"
+  },
+  {
+    "id": "1-2",
+    "category": "Psychology",
+    "title": "Cognitive dissonance",
+    "body": "Inconsistent beliefs and actions can produce discomfort that motivates changes in behavior or interpretation.",
+    "apply": "Notice when you are justifying a decision rather than evaluating it.",
+    "source": "Festinger, A Theory of Cognitive Dissonance (1957)"
+  },
+  {
+    "id": "1-3",
+    "category": "Psychology",
+    "title": "Anchoring",
+    "body": "An initial number can influence subsequent estimates even when it is irrelevant.",
+    "apply": "Estimate the value independently before reading a quote.",
+    "source": "Tversky and Kahneman, Science (1974)"
+  },
+  {
+    "id": "1-4",
+    "category": "Psychology",
+    "title": "Availability heuristic",
+    "body": "Events that come easily to mind can seem more common than they really are.",
+    "apply": "Check base rates before judging risk.",
+    "source": "Tversky and Kahneman, Science (1974)"
+  },
+  {
+    "id": "1-5",
+    "category": "Psychology",
+    "title": "Framing effect",
+    "body": "Equivalent outcomes can prompt different choices depending on how they are described.",
+    "apply": "Rephrase a decision in terms of both gains and losses.",
+    "source": "Tversky and Kahneman, Science (1981)"
+  },
+  {
+    "id": "1-6",
+    "category": "Psychology",
+    "title": "Sunk cost",
+    "body": "Past unrecoverable investments can distort decisions about future spending.",
+    "apply": "Ask whether you would start the project today at its remaining cost.",
+    "source": "Arkes and Blumer, Organizational Behavior and Human Decision Processes (1985)"
+  },
+  {
+    "id": "1-7",
+    "category": "Psychology",
+    "title": "Illusion of explanatory depth",
+    "body": "People often overestimate how well they understand mechanisms until asked to explain them.",
+    "apply": "Explain a familiar device step by step without looking it up.",
+    "source": "Rozenblit and Keil, Cognitive Science (2002)"
+  },
+  {
+    "id": "1-8",
+    "category": "Psychology",
+    "title": "Mere exposure",
+    "body": "Repeated exposure can increase liking under some conditions.",
+    "apply": "Distinguish familiarity with a brand from evidence of quality.",
+    "source": "Zajonc, Journal of Personality and Social Psychology (1968)"
+  },
+  {
+    "id": "2-1",
+    "category": "Business",
+    "title": "Opportunity cost",
+    "body": "Choosing an option means giving up the value of the best alternative.",
+    "apply": "Compare a project's return with what the same time could earn elsewhere.",
+    "source": "OpenStax, Principles of Economics 3e"
+  },
+  {
+    "id": "2-2",
+    "category": "Business",
+    "title": "Theory of constraints",
+    "body": "A system's throughput is often limited by a bottleneck.",
+    "apply": "Find the step with the longest queue before adding resources.",
+    "source": "Goldratt and Cox, The Goal (1984)"
+  },
+  {
+    "id": "2-3",
+    "category": "Business",
+    "title": "Marginal analysis",
+    "body": "Compare the additional benefit and additional cost of one more unit.",
+    "apply": "Evaluate the next hour of work rather than the average hour.",
+    "source": "OpenStax, Principles of Economics 3e"
+  },
+  {
+    "id": "2-4",
+    "category": "Business",
+    "title": "Contribution margin",
+    "body": "Revenue minus variable costs indicates how much a sale contributes toward fixed costs and profit.",
+    "apply": "Calculate the margin of each service before discounting.",
+    "source": "OpenStax, Principles of Managerial Accounting"
+  },
+  {
+    "id": "2-5",
+    "category": "Business",
+    "title": "Economies of scale",
+    "body": "Average costs may fall as output grows when fixed costs are spread across more units.",
+    "apply": "Consider sharing equipment across compatible services.",
+    "source": "OpenStax, Principles of Economics 3e"
+  },
+  {
+    "id": "2-6",
+    "category": "Business",
+    "title": "Network effects",
+    "body": "Some products become more useful as more people use them.",
+    "apply": "Identify whether adding customers actually improves the product experience.",
+    "source": "Katz and Shapiro, American Economic Review (1985)"
+  },
+  {
+    "id": "2-7",
+    "category": "Business",
+    "title": "Minimum viable product",
+    "body": "An early product can test important assumptions with limited development effort.",
+    "apply": "Test one useful feature before building a full platform.",
+    "source": "Eric Ries, The Lean Startup (2011)"
+  },
+  {
+    "id": "2-8",
+    "category": "Business",
+    "title": "Comparative advantage",
+    "body": "Specialization can benefit both parties when their opportunity costs differ.",
+    "apply": "Delegate based on relative costs, not simply who is best at each task.",
+    "source": "OpenStax, Principles of Economics 3e"
+  },
+  {
+    "id": "3-1",
+    "category": "Philosophy",
+    "title": "Dichotomy of control",
+    "body": "Stoic philosophy distinguishes our judgments and choices from external outcomes.",
+    "apply": "Separate your next action from the result you hope to achieve.",
+    "source": "Epictetus, Enchiridion, section 1"
+  },
+  {
+    "id": "3-2",
+    "category": "Philosophy",
+    "title": "Ship of Theseus",
+    "body": "Replacing every part of an object raises questions about what makes it the same object.",
+    "apply": "Consider what defines continuity during a renovation.",
+    "source": "Plutarch, Life of Theseus"
+  },
+  {
+    "id": "3-3",
+    "category": "Philosophy",
+    "title": "Veil of ignorance",
+    "body": "Rawls asks us to imagine choosing social rules without knowing our own place in society.",
+    "apply": "Design a policy as though you might occupy any role.",
+    "source": "John Rawls, A Theory of Justice (1971)"
+  },
+  {
+    "id": "3-4",
+    "category": "Philosophy",
+    "title": "Falsifiability",
+    "body": "A scientific claim should expose itself to possible refutation.",
+    "apply": "State what evidence would make you change your prediction.",
+    "source": "Karl Popper, The Logic of Scientific Discovery"
+  },
+  {
+    "id": "3-5",
+    "category": "Philosophy",
+    "title": "Burden of proof",
+    "body": "A claim needs support; the absence of disproof is generally not evidence that it is true.",
+    "apply": "Ask what independently testable evidence supports a claim.",
+    "source": "Stanford Encyclopedia of Philosophy, Theories of Justification"
+  },
+  {
+    "id": "3-6",
+    "category": "Philosophy",
+    "title": "Is–ought distinction",
+    "body": "Descriptive facts alone do not establish what morally ought to happen without normative premises.",
+    "apply": "Separate factual assumptions from values in a disagreement.",
+    "source": "David Hume, A Treatise of Human Nature, book III"
+  },
+  {
+    "id": "3-7",
+    "category": "Philosophy",
+    "title": "Virtue ethics",
+    "body": "Virtue ethics emphasizes character and practical wisdom rather than rules or outcomes alone.",
+    "apply": "Ask which habit a repeated choice would cultivate.",
+    "source": "Aristotle, Nicomachean Ethics"
+  },
+  {
+    "id": "3-8",
+    "category": "Philosophy",
+    "title": "Socratic questioning",
+    "body": "Careful questions can expose assumptions and inconsistencies.",
+    "apply": "Ask what a key term means before debating it.",
+    "source": "Plato, Euthyphro"
+  },
+  {
+    "id": "4-1",
+    "category": "Relationships",
+    "title": "Active listening",
+    "body": "Listening to understand includes attending, reflecting and checking interpretations.",
+    "apply": "Summarize what someone said before offering a solution.",
+    "source": "Rogers and Farson, Active Listening (1957)"
+  },
+  {
+    "id": "4-2",
+    "category": "Relationships",
+    "title": "Attribution error",
+    "body": "Observers may overemphasize personal traits and underestimate situational influences, though patterns vary by context.",
+    "apply": "Consider an alternative situational explanation before judging.",
+    "source": "Ross, Advances in Experimental Social Psychology (1977)"
+  },
+  {
+    "id": "4-3",
+    "category": "Relationships",
+    "title": "Repair attempts",
+    "body": "Attempts to de-escalate conflict can help partners return to constructive interaction.",
+    "apply": "Acknowledge a harsh tone and restart the conversation.",
+    "source": "Gottman and Silver, The Seven Principles for Making Marriage Work"
+  },
+  {
+    "id": "4-4",
+    "category": "Relationships",
+    "title": "Emotional granularity",
+    "body": "Distinguishing specific emotions may help people choose more appropriate responses.",
+    "apply": "Replace 'bad' with a more precise description such as disappointed or anxious.",
+    "source": "Barrett et al., Current Directions in Psychological Science (2001)"
+  },
+  {
+    "id": "4-5",
+    "category": "Relationships",
+    "title": "Responsiveness",
+    "body": "Feeling understood, validated and cared for is important to relationship intimacy.",
+    "apply": "Ask what support would feel helpful rather than assuming.",
+    "source": "Reis and Shaver, Handbook of Personal Relationships (1988)"
+  },
+  {
+    "id": "4-6",
+    "category": "Relationships",
+    "title": "Self-disclosure",
+    "body": "Mutual, appropriate disclosure can contribute to interpersonal closeness.",
+    "apply": "Share a manageable detail and allow the other person to choose their pace.",
+    "source": "Collins and Miller, Psychological Bulletin (1994)"
+  },
+  {
+    "id": "4-7",
+    "category": "Relationships",
+    "title": "Social support",
+    "body": "Supportive relationships can buffer some effects of stress.",
+    "apply": "Offer concrete help as well as emotional reassurance.",
+    "source": "Cohen and Wills, Psychological Bulletin (1985)"
+  },
+  {
+    "id": "4-8",
+    "category": "Relationships",
+    "title": "Perspective taking",
+    "body": "Imagining another viewpoint can improve understanding but does not establish their actual thoughts.",
+    "apply": "Check your interpretation with an open question.",
+    "source": "Eyal, Steffel and Epley, Journal of Personality and Social Psychology (2018)"
+  },
+  {
+    "id": "5-1",
+    "category": "Science & technology",
+    "title": "Entropy",
+    "body": "The total entropy of an isolated system does not decrease in ordinary thermodynamic processes.",
+    "apply": "Notice why heat naturally flows from a warmer object to a cooler one.",
+    "source": "OpenStax, University Physics Volume 2"
+  },
+  {
+    "id": "5-2",
+    "category": "Science & technology",
+    "title": "Feedback loops",
+    "body": "Negative feedback counteracts changes; positive feedback amplifies them.",
+    "apply": "Think of a thermostat as a stabilizing feedback loop.",
+    "source": "OpenStax, Biology 2e"
+  },
+  {
+    "id": "5-3",
+    "category": "Science & technology",
+    "title": "Nyquist sampling",
+    "body": "A band-limited signal requires a sampling rate above twice its highest frequency for ideal reconstruction.",
+    "apply": "Relate this to digital audio and anti-aliasing filters.",
+    "source": "Shannon, Proceedings of the IRE (1949)"
+  },
+  {
+    "id": "5-4",
+    "category": "Science & technology",
+    "title": "Packet switching",
+    "body": "Networks transmit data in packets that can share communication links.",
+    "apply": "Distinguish network congestion from a weak wireless signal.",
+    "source": "Kurose and Ross, Computer Networking: A Top-Down Approach"
+  },
+  {
+    "id": "5-5",
+    "category": "Science & technology",
+    "title": "Inverse square law",
+    "body": "For an ideal point source in free space, intensity decreases with the square of distance.",
+    "apply": "Doubling distance from an ideal sound source quarters intensity.",
+    "source": "OpenStax, University Physics Volume 1"
+  },
+  {
+    "id": "5-6",
+    "category": "Science & technology",
+    "title": "Natural selection",
+    "body": "Heritable traits associated with reproductive success can become more common across generations.",
+    "apply": "Distinguish population adaptation from individual acclimation.",
+    "source": "OpenStax, Biology 2e"
+  },
+  {
+    "id": "5-7",
+    "category": "Science & technology",
+    "title": "Doppler effect",
+    "body": "Relative motion changes the observed frequency of waves.",
+    "apply": "Listen to a passing siren change pitch.",
+    "source": "OpenStax, University Physics Volume 1"
+  },
+  {
+    "id": "5-8",
+    "category": "Science & technology",
+    "title": "Redundancy",
+    "body": "Independent backups can improve reliability, but shared failure modes undermine them.",
+    "apply": "Keep a backup that does not depend on the original device.",
+    "source": "NIST SP 800-34 Rev. 1"
+  },
+  {
+    "id": "6-1",
+    "category": "History",
+    "title": "Printing revolution",
+    "body": "Movable-type printing existed in East Asia before Gutenberg's European system transformed book production.",
+    "apply": "Consider how lower copying costs change access to information.",
+    "source": "Encyclopaedia Britannica, Printing"
+  },
+  {
+    "id": "6-2",
+    "category": "History",
+    "title": "Antikythera mechanism",
+    "body": "An ancient Greek geared device modeled astronomical cycles.",
+    "apply": "Explore how mathematical knowledge can be embodied in machines.",
+    "source": "Freeth et al., Nature (2006)"
+  },
+  {
+    "id": "6-3",
+    "category": "History",
+    "title": "Roman concrete",
+    "body": "Some ancient Roman mortars contain lime clasts associated with self-healing mechanisms in laboratory experiments.",
+    "apply": "Consider durability as a design goal, not just initial strength.",
+    "source": "Seymour et al., Science Advances (2023)"
+  },
+  {
+    "id": "6-4",
+    "category": "History",
+    "title": "Standard time",
+    "body": "Railroad coordination encouraged adoption of standardized time zones in North America in 1883.",
+    "apply": "Imagine scheduling trains when every town kept its own time.",
+    "source": "Library of Congress, Standard Time"
+  },
+  {
+    "id": "6-5",
+    "category": "History",
+    "title": "Rosetta Stone",
+    "body": "The same decree in different scripts helped scholars decipher Egyptian hieroglyphs.",
+    "apply": "Look for parallel examples when learning an unfamiliar system.",
+    "source": "British Museum, The Rosetta Stone"
+  },
+  {
+    "id": "6-6",
+    "category": "History",
+    "title": "Transistor",
+    "body": "The first working point-contact transistor was demonstrated at Bell Labs in 1947.",
+    "apply": "Trace modern computing back to the ability to switch and amplify signals.",
+    "source": "Computer History Museum, Transistor history"
+  },
+  {
+    "id": "6-7",
+    "category": "History",
+    "title": "Metric system",
+    "body": "The metric system emerged from efforts to standardize measurement in revolutionary France.",
+    "apply": "Recognize the coordination benefits of shared units.",
+    "source": "NIST, History of the Metric System"
+  },
+  {
+    "id": "6-8",
+    "category": "History",
+    "title": "Smallpox eradication",
+    "body": "Global vaccination and surveillance led to WHO certification of smallpox eradication in 1980.",
+    "apply": "Notice how coordinated monitoring complements a technical solution.",
+    "source": "World Health Organization, Smallpox"
+  },
+  {
+    "id": "7-1",
+    "category": "Productivity",
+    "title": "Implementation intentions",
+    "body": "If–then plans connect a situation with a specific behavior.",
+    "apply": "If I finish lunch, then I will spend ten minutes on one task.",
+    "source": "Gollwitzer, American Psychologist (1999)"
+  },
+  {
+    "id": "7-2",
+    "category": "Productivity",
+    "title": "Retrieval practice",
+    "body": "Recalling information can strengthen later retention compared with simply rereading.",
+    "apply": "Close a learning card and explain it from memory.",
+    "source": "Roediger and Karpicke, Psychological Science (2006)"
+  },
+  {
+    "id": "7-3",
+    "category": "Productivity",
+    "title": "Spacing effect",
+    "body": "Distributing practice over time often improves long-term retention.",
+    "apply": "Review an idea tomorrow and again next week.",
+    "source": "Cepeda et al., Psychological Bulletin (2006)"
+  },
+  {
+    "id": "7-4",
+    "category": "Productivity",
+    "title": "Interleaving",
+    "body": "Mixing related problem types can help learners distinguish which solution applies.",
+    "apply": "Alternate different kinds of practice problems.",
+    "source": "Rohrer and Taylor, Instructional Science (2007)"
+  },
+  {
+    "id": "7-5",
+    "category": "Productivity",
+    "title": "Cognitive load",
+    "body": "Working memory is limited; unnecessary complexity can interfere with learning.",
+    "apply": "Break a procedure into steps and remove irrelevant details.",
+    "source": "Sweller, Cognitive Science (1988)"
+  },
+  {
+    "id": "7-6",
+    "category": "Productivity",
+    "title": "Attention residue",
+    "body": "Thinking about a previous task can interfere with performance on a new one.",
+    "apply": "Write a stopping point before switching projects.",
+    "source": "Leroy, Organizational Behavior and Human Decision Processes (2009)"
+  },
+  {
+    "id": "7-7",
+    "category": "Productivity",
+    "title": "Planning fallacy",
+    "body": "People can underestimate completion times by focusing on ideal scenarios.",
+    "apply": "Use actual durations from similar past projects.",
+    "source": "Buehler, Griffin and Ross, Journal of Personality and Social Psychology (1994)"
+  },
+  {
+    "id": "7-8",
+    "category": "Productivity",
+    "title": "Habit cues",
+    "body": "Repeated behavior in stable contexts can become more automatic over time.",
+    "apply": "Attach a small new habit to a reliable daily cue.",
+    "source": "Wood and Neal, Psychological Review (2007)"
+  },
+  {
+    "id": "8-1",
+    "category": "Communication",
+    "title": "BATNA",
+    "body": "Your best alternative to a negotiated agreement helps determine whether to accept an offer.",
+    "apply": "Identify a realistic fallback before negotiating.",
+    "source": "Fisher, Ury and Patton, Getting to Yes"
+  },
+  {
+    "id": "8-2",
+    "category": "Communication",
+    "title": "Interests versus positions",
+    "body": "A stated demand may hide a need that could be met in other ways.",
+    "apply": "Ask why a deadline matters before bargaining over it.",
+    "source": "Fisher, Ury and Patton, Getting to Yes"
+  },
+  {
+    "id": "8-3",
+    "category": "Communication",
+    "title": "Common ground",
+    "body": "Communication depends partly on shared knowledge and assumptions.",
+    "apply": "Check that both parties mean the same thing by a technical term.",
+    "source": "Clark, Using Language (1996)"
+  },
+  {
+    "id": "8-4",
+    "category": "Communication",
+    "title": "Teach-back",
+    "body": "Asking someone to explain information in their own words can reveal misunderstandings.",
+    "apply": "Ask a client to describe how they will operate a new system.",
+    "source": "AHRQ, Health Literacy Universal Precautions Toolkit"
+  },
+  {
+    "id": "8-5",
+    "category": "Communication",
+    "title": "Nonverbal context",
+    "body": "Nonverbal cues can provide context but do not reliably reveal a person's private thoughts.",
+    "apply": "Verify an ambiguous expression rather than treating it as proof.",
+    "source": "Hall, Horgan and Murphy, Annual Review of Psychology (2019)"
+  },
+  {
+    "id": "8-6",
+    "category": "Communication",
+    "title": "Open questions",
+    "body": "Questions that invite elaboration can elicit information missed by yes-or-no prompts.",
+    "apply": "Ask what would make a proposal workable.",
+    "source": "Miller and Rollnick, Motivational Interviewing"
+  },
+  {
+    "id": "8-7",
+    "category": "Communication",
+    "title": "Information asymmetry",
+    "body": "One party may possess relevant knowledge the other lacks, affecting decisions.",
+    "apply": "Explain product limitations in terms a customer understands.",
+    "source": "Akerlof, Quarterly Journal of Economics (1970)"
+  },
+  {
+    "id": "8-8",
+    "category": "Communication",
+    "title": "Integrative negotiation",
+    "body": "Parties can sometimes create value by trading across issues they value differently.",
+    "apply": "Explore timing, price and scope rather than only price.",
+    "source": "Thompson, The Mind and Heart of the Negotiator"
+  }
+]
